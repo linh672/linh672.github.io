@@ -1,0 +1,246 @@
+{
+  "app": {
+    "name": "Wollon",
+    "description": "A beautiful and powerful app that makes your life easier",
+    "tagline": "Experience the future of productivity"
+  },
+  "mode": "marketing",
+  "theme": {
+    "primaryColor": "#0ea5e9",
+    "secondaryColor": "#06b6d4"
+  },
+  "navigation": [
+    {
+      "label": "Home",
+      "url": "#",
+      "external": false
+    },
+    {
+      "label": "Support",
+      "url": "#support-section",
+      "external": false
+    },
+    {
+      "label": "FAQ",
+      "url": "#faq-section",
+      "external": false
+    }
+  ],
+  "hero": {
+    "buttons": [
+      {
+        "label": "Download Now",
+        "url": "#",
+        "style": "btn-primary",
+        "external": false
+      },
+      {
+        "label": "Learn More",
+        "url": "#support-section",
+        "style": "btn-secondary",
+        "external": false
+      }
+    ]
+  },
+  "featuresTitle": "Features",
+  "features": [
+    {
+      "title": "Feature One",
+      "description": "Describe your amazing feature here. Explain how it helps users and why they'll love it.",
+      "icon": "fas fa-star"
+    },
+    {
+      "title": "Feature Two",
+      "description": "Another great feature that sets your app apart from the competition. Be specific and compelling.",
+      "icon": "fas fa-rocket"
+    },
+    {
+      "title": "Feature Three",
+      "description": "Highlight the key benefits and unique selling points of this feature in a clear and concise way.",
+      "icon": "fas fa-bullseye"
+    },
+    {
+      "title": "Feature Four",
+      "description": "Showcase what makes your app special. Focus on user benefits and real-world applications.",
+      "icon": "fas fa-lightbulb"
+    },
+    {
+      "title": "Feature Five",
+      "description": "Explain how this feature solves a problem or improves the user experience in a meaningful way.",
+      "icon": "fas fa-lock"
+    },
+    {
+      "title": "Feature Six",
+      "description": "Describe the value proposition and why users should choose your app over alternatives.",
+      "icon": "fas fa-bolt"
+    }
+  ],
+  "screenshotsTitle": "Screenshots",
+  "screenshots": [
+    {
+      "url": "https://via.placeholder.com/400x800/6366f1/ffffff?text=Screenshot+1",
+      "alt": "App Screenshot 1",
+      "lightbox": true
+    },
+    {
+      "url": "https://via.placeholder.com/400x800/8b5cf6/ffffff?text=Screenshot+2",
+      "alt": "App Screenshot 2",
+      "lightbox": true
+    },
+    {
+      "url": "https://via.placeholder.com/400x800/6366f1/ffffff?text=Screenshot+3",
+      "alt": "App Screenshot 3",
+      "lightbox": true
+    },
+    {
+      "url": "https://via.placeholder.com/400x800/8b5cf6/ffffff?text=Screenshot+4",
+      "alt": "App Screenshot 4",
+      "lightbox": true
+    }
+  ],
+  "downloadTitle": "Get Started Today",
+  "downloadSubtitle": "Available on iOS and macOS",
+  "downloads": [
+    {
+      "label": "Download on the",
+      "platform": "App Store",
+      "url": "https://apps.apple.com",
+      "icon": "fab fa-apple",
+      "external": true
+    },
+    {
+      "label": "Download for",
+      "platform": "macOS",
+      "url": "https://apps.apple.com/mac",
+      "icon": "fas fa-laptop",
+      "external": true
+    }
+  ],
+  "supportTitle": "Support",
+  "support": [
+    {
+      "title": "Email Support",
+      "description": "Get help via email. We typically respond within 24 hours.",
+      "icon": "fas fa-envelope",
+      "url": "mailto:dangnhatlinh0202@gmail.com",
+      "linkText": "Send Email"
+    },
+    {
+      "title": "Documentation",
+      "description": "Browse our comprehensive guides and tutorials.",
+      "icon": "fas fa-book",
+      "url": "#",
+      "linkText": "View Docs"
+    },
+    {
+      "title": "Community",
+      "description": "Join our community forum to get help from other users.",
+      "icon": "fas fa-comments",
+      "url": "#",
+      "linkText": "Join Community"
+    },
+    {
+      "title": "Report Bug",
+      "description": "Found a bug? Let us know and we'll fix it as soon as possible.",
+      "icon": "fas fa-bug",
+      "url": "#",
+      "linkText": "Report Issue"
+    }
+  ],
+  "contactForm": {
+    "enabled": true,
+    "title": "Contact Us",
+    "handler": "email",
+    "email": "dangnhatlinh0202@gmail.com"
+  },
+  "faqTitle": "Frequently Asked Questions",
+  "faq": [
+    {
+      "question": "What platforms does the app support?",
+      "answer": "Our app is currently available on iOS and macOS. You can download it from the App Store or our website."
+    },
+    {
+      "question": "Is the app free to use?",
+      "answer": "Yes, the app offers a free tier with basic features. We also offer premium plans with additional features and priority support."
+    },
+    {
+      "question": "How do I get started?",
+      "answer": "Simply download the app from your preferred platform, create an account, and follow the onboarding guide. It only takes a few minutes!"
+    },
+    {
+      "question": "Can I sync my data across devices?",
+      "answer": "Data syncing depends on the specific app. Some apps offer automatic syncing when you sign in with the same account, while others may require manual sync or may not support syncing at all. Please check the app's documentation for specific syncing capabilities."
+    },
+    {
+      "question": "What if I need help?",
+      "answer": "We offer multiple support channels including email support, documentation, community forums, and in-app help. Check out our Support section for more details."
+    },
+    {
+      "question": "Is my data secure?",
+      "answer": "Absolutely. We use industry-standard encryption and security practices to protect your data. Your privacy is our top priority."
+    }
+  ],
+  "social": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com",
+      "icon": "fab fa-twitter",
+      "external": true
+    },
+    {
+      "name": "Facebook",
+      "url": "https://facebook.com",
+      "icon": "fab fa-facebook",
+      "external": true
+    },
+    {
+      "name": "Instagram",
+      "url": "https://instagram.com",
+      "icon": "fab fa-instagram",
+      "external": true
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com",
+      "icon": "fab fa-github",
+      "external": true
+    }
+  ],
+  "footer": {
+    "links": [
+      {
+        "label": "About",
+        "url": "#",
+        "external": false
+      },
+      {
+        "label": "Pricing",
+        "url": "#",
+        "external": false
+      },
+      {
+        "label": "Support",
+        "url": "#support-section",
+        "external": false
+      }
+    ],
+    "legal": [
+      {
+        "label": "Privacy Policy",
+        "url": "#",
+        "external": false
+      },
+      {
+        "label": "Terms of Service",
+        "url": "#",
+        "external": false
+      },
+      {
+        "label": "Cookie Policy",
+        "url": "#",
+        "external": false
+      }
+    ]
+  }
+}
+
