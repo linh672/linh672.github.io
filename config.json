@@ -1,18 +1,23 @@
 {
   "app": {
-    "name": "Wollon",
-    "description": "A beautiful and powerful app that makes your life easier",
-    "tagline": "Experience the future of productivity"
+    "name": "Easy Calorie Tracker",
+    "description": "A simple and powerful tool to track your daily calorie intake and maintain a healthy lifestyle.",
+    "tagline": "Your Personal Health Companion"
   },
   "mode": "marketing",
   "theme": {
-    "primaryColor": "#0ea5e9",
-    "secondaryColor": "#06b6d4"
+    "primaryColor": "#34C759",
+    "secondaryColor": "#30B0C7"
   },
   "navigation": [
     {
       "label": "Home",
       "url": "#",
+      "external": false
+    },
+    {
+      "label": "Features",
+      "url": "#features-section",
       "external": false
     },
     {
@@ -30,7 +35,7 @@
     "buttons": [
       {
         "label": "Download Now",
-        "url": "#",
+        "url": "#download-section",
         "style": "btn-primary",
         "external": false
       },
@@ -45,141 +50,104 @@
   "featuresTitle": "Features",
   "features": [
     {
-      "title": "Feature One",
-      "description": "Describe your amazing feature here. Explain how it helps users and why they'll love it.",
-      "icon": "fas fa-star"
+      "title": "Easy Tracking",
+      "description": "Log your meals and snacks in seconds with our intuitive interface.",
+      "icon": "fas fa-utensils"
     },
     {
-      "title": "Feature Two",
-      "description": "Another great feature that sets your app apart from the competition. Be specific and compelling.",
-      "icon": "fas fa-rocket"
-    },
-    {
-      "title": "Feature Three",
-      "description": "Highlight the key benefits and unique selling points of this feature in a clear and concise way.",
+      "title": "Daily Goals",
+      "description": "Set and monitor your daily calorie goals to stay on track with your fitness journey.",
       "icon": "fas fa-bullseye"
     },
     {
-      "title": "Feature Four",
-      "description": "Showcase what makes your app special. Focus on user benefits and real-world applications.",
-      "icon": "fas fa-lightbulb"
+      "title": "History & Progress",
+      "description": "View your history and track your progress over days, weeks, and months.",
+      "icon": "fas fa-chart-line"
     },
     {
-      "title": "Feature Five",
-      "description": "Explain how this feature solves a problem or improves the user experience in a meaningful way.",
-      "icon": "fas fa-lock"
+      "title": "Offline Access",
+      "description": "All your data is stored locally on your device, allowing you to use the app anywhere.",
+      "icon": "fas fa-wifi"
     },
     {
-      "title": "Feature Six",
-      "description": "Describe the value proposition and why users should choose your app over alternatives.",
-      "icon": "fas fa-bolt"
+      "title": "Privacy First",
+      "description": "Your data stays on your device. We don't collect your personal information.",
+      "icon": "fas fa-user-shield"
+    },
+    {
+      "title": "Completely Free",
+      "description": "Enjoy all core features without any hidden costs or subscriptions.",
+      "icon": "fas fa-gift"
     }
   ],
-  "screenshotsTitle": "Screenshots",
+  "screenshotsTitle": "Inside the App",
   "screenshots": [
     {
-      "url": "https://via.placeholder.com/400x800/6366f1/ffffff?text=Screenshot+1",
-      "alt": "App Screenshot 1",
+      "url": "https://via.placeholder.com/400x800/34C759/ffffff?text=Meal+Logs",
+      "alt": "Meal Logging Screenshot",
       "lightbox": true
     },
     {
-      "url": "https://via.placeholder.com/400x800/8b5cf6/ffffff?text=Screenshot+2",
-      "alt": "App Screenshot 2",
+      "url": "https://via.placeholder.com/400x800/30B0C7/ffffff?text=Progress+Charts",
+      "alt": "Progress Chart Screenshot",
       "lightbox": true
     },
     {
-      "url": "https://via.placeholder.com/400x800/6366f1/ffffff?text=Screenshot+3",
-      "alt": "App Screenshot 3",
-      "lightbox": true
-    },
-    {
-      "url": "https://via.placeholder.com/400x800/8b5cf6/ffffff?text=Screenshot+4",
-      "alt": "App Screenshot 4",
+      "url": "https://via.placeholder.com/400x800/34C759/ffffff?text=Daily+Summary",
+      "alt": "Daily Summary Screenshot",
       "lightbox": true
     }
   ],
-  "downloadTitle": "Get Started Today",
-  "downloadSubtitle": "Available on iOS and macOS",
+  "downloadTitle": "Get Easy Calorie Tracker",
+  "downloadSubtitle": "Start your health journey today.",
   "downloads": [
     {
-      "label": "Download on the",
-      "platform": "App Store",
-      "url": "https://apps.apple.com",
-      "icon": "fab fa-apple",
-      "external": true
-    },
-    {
-      "label": "Download for",
-      "platform": "macOS",
-      "url": "https://apps.apple.com/mac",
-      "icon": "fas fa-laptop",
+      "label": "GET IT ON",
+      "platform": "Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.linh672.calorie_tracker",
+      "icon": "fab fa-google-play",
       "external": true
     }
   ],
-  "supportTitle": "Support",
+  "supportTitle": "Customer Support",
   "support": [
     {
       "title": "Email Support",
-      "description": "Get help via email. We typically respond within 24 hours.",
+      "description": "Have questions or feedback? Contact us via email.",
       "icon": "fas fa-envelope",
       "url": "mailto:dangnhatlinh0202@gmail.com",
       "linkText": "Send Email"
     },
     {
-      "title": "Documentation",
-      "description": "Browse our comprehensive guides and tutorials.",
-      "icon": "fas fa-book",
-      "url": "#",
-      "linkText": "View Docs"
-    },
-    {
-      "title": "Report Bug",
-      "description": "Found a bug? Let us know and we'll fix it as soon as possible.",
-      "icon": "fas fa-bug",
-      "url": "#",
-      "linkText": "Report Issue"
+      "title": "GitHub",
+      "description": "Check out our open-source presence or report issues.",
+      "icon": "fab fa-github",
+      "url": "https://github.com/linh672",
+      "linkText": "Visit GitHub"
     }
   ],
   "contactForm": {
     "enabled": true,
-    "title": "Contact Us",
+    "title": "Send us a Message",
     "handler": "email",
     "email": "dangnhatlinh0202@gmail.com"
   },
-  "faqTitle": "Frequently Asked Questions",
+  "faqTitle": "Common Questions",
   "faq": [
     {
-      "question": "What platforms does the app support?",
-      "answer": "Our app is currently available on iOS and macOS. You can download it from the App Store or our website."
+      "question": "How is my data stored?",
+      "answer": "All your data is stored locally on your device's internal storage. This ensures maximum privacy and offline availability."
     },
     {
-      "question": "Is the app free to use?",
-      "answer": "Yes, the app offers a free tier with basic features. We also offer premium plans with additional features and priority support."
+      "question": "Does the app require an internet connection?",
+      "answer": "No, the core features of tracking meals and calories work entirely offline."
     },
     {
-      "question": "How do I get started?",
-      "answer": "Simply download the app from your preferred platform, create an account, and follow the onboarding guide. It only takes a few minutes!"
-    },
-    {
-      "question": "Can I sync my data across devices?",
-      "answer": "Data syncing depends on the specific app. Some apps offer automatic syncing when you sign in with the same account, while others may require manual sync or may not support syncing at all. Please check the app's documentation for specific syncing capabilities."
-    },
-    {
-      "question": "What if I need help?",
-      "answer": "We offer multiple support channels including email support, documentation, community forums, and in-app help. Check out our Support section for more details."
-    },
-    {
-      "question": "Is my data secure?",
-      "answer": "Absolutely. We use industry-standard encryption and security practices to protect your data. Your privacy is our top priority."
+      "question": "Can I export my data?",
+      "answer": "Currently, data export is planned for a future update. Stay tuned!"
     }
   ],
   "social": [
-    {
-      "name": "Gmail",
-      "url": "mailto:dangnhatlinh0202@gmail.com",
-      "icon": "fas fa-envelope",
-      "external": false
-    },
     {
       "name": "GitHub",
       "url": "https://github.com/linh672",
@@ -189,16 +157,6 @@
   ],
   "footer": {
     "links": [
-      {
-        "label": "About",
-        "url": "#",
-        "external": false
-      },
-      {
-        "label": "Pricing",
-        "url": "#",
-        "external": false
-      },
       {
         "label": "Support",
         "url": "#support-section",
@@ -210,18 +168,7 @@
         "label": "Privacy Policy",
         "url": "privacy.html",
         "external": false
-      },
-      {
-        "label": "Terms of Service",
-        "url": "#",
-        "external": false
-      },
-      {
-        "label": "Cookie Policy",
-        "url": "#",
-        "external": false
       }
     ]
   }
 }
-
