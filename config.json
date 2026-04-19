@@ -152,10 +152,7 @@
       "question": "What platforms does the app support?",
       "answer": "Our app is currently available on iOS and macOS. You can download it from the App Store or our website."
     },
-    {
-      "question": "Is the app free to use?",
-      "answer": "Yes, the app offers a free tier with basic features. We also offer premium plans with additional features and priority support."
-    },
+
     {
       "question": "How do I get started?",
       "answer": "Simply download the app from your preferred platform, create an account, and follow the onboarding guide. It only takes a few minutes!"
@@ -191,11 +188,6 @@
     "links": [
       {
         "label": "About",
-        "url": "#",
-        "external": false
-      },
-      {
-        "label": "Pricing",
         "url": "#",
         "external": false
       },

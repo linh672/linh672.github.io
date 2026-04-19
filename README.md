@@ -430,7 +430,7 @@ This page works with any static hosting service:
 
 ## 📄 License
 
-This template is free to use for personal and commercial projects.
+This template is available for use for personal and commercial projects.
 
 ## 🤝 Support
 
