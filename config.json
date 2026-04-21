@@ -6,8 +6,8 @@
   },
   "mode": "marketing",
   "theme": {
-    "primaryColor": "#0ea5e9",
-    "secondaryColor": "#06b6d4"
+    "primaryColor": "#000000",
+    "secondaryColor": "#222222"
   },
   "navigation": [
     {
